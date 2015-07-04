@@ -436,9 +436,16 @@ Personal Styles
   
   ul#navi_main {
     text-align: center;
+    color: #007edf;
     
   }
 
    ul#navi_main a {
     text-decoration: none;
+    color: #007edf;
+   }
+   
+   ul#navi_main a:hover {
+    text-decoration: none;
+    
    }
