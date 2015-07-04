@@ -436,6 +436,7 @@ Personal Styles
   
   ul#navi_main {
     text-align: center;
+    height: 100px;
   }
 
    ul#navi_main a {
