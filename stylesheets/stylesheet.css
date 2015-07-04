@@ -538,6 +538,9 @@ Personal Styles
      
      ul#navi_main li ul li {
        float: none;
+       text-align: left;
+       display: block;
+       padding: 5px;
      }
    
    
