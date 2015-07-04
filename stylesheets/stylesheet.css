@@ -503,18 +503,27 @@ Personal Styles
        width: 100px;
        padding-top:10px;
        padding-bottom:10px;
+       background-color:#373737;
+       border-radius: 10px;
+       box-shadow: 2px 2px 5px #000000;
     }
    
      ul#navi_main li.downloads:hover {
        width: 100px;
        padding-top:10px;
        padding-bottom:10px;
+       background-color:#373737;
+       border-radius: 10px;
+       box-shadow: 2px 2px 5px #000000;
     }
    
      ul#navi_main li.kontakt:hover {
        width: 100px;
        padding-top:10px;
        padding-bottom:10px;
+       background-color:#373737;
+       border-radius: 10px;
+       box-shadow: 2px 2px 5px #000000;
      }
    
    
