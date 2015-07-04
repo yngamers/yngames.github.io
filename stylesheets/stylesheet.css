@@ -473,31 +473,31 @@ Personal Styles
    
    ul#navi_main li.home {
      width: 130px;
-     height:80px;
+     height:160px;
      padding:10px;
    }
    
    ul#navi_main li.projekte {
      width: 130px;
-     height:80px;
+     height:160px;
      padding:10px;
    }
    
    ul#navi_main li.downloads {
      width: 130px;
-     height:80px;
+     height:160px;
      padding:10px;
    }
    
    ul#navi_main li.kontakt {
      width: 130px;
-     height:80px;
+     height:160px;
      padding:10px;
    }
    
       ul#navi_main li.home:hover {
        width: 130px;
-       height:80px;
+       height:160px;
        padding:5px;
        background-color:#373737;
        border-radius: 10px;
@@ -506,7 +506,7 @@ Personal Styles
      
      ul#navi_main li.projekte:hover {
        width: 130px;
-       height:80px;
+       height:160px;
        padding:5px;
        background-color:#373737;
        border-radius: 10px;
@@ -515,7 +515,7 @@ Personal Styles
    
      ul#navi_main li.downloads:hover {
        width: 130px;
-       height:80px;
+       height:160px;
        padding:5px;
        background-color:#373737;
        border-radius: 10px;
@@ -524,7 +524,7 @@ Personal Styles
    
      ul#navi_main li.kontakt:hover {
        width:130px;
-       height:80px;
+       height:160px;
        padding:5px;
        background-color:#373737;
        border-radius: 10px;
