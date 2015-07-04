@@ -439,6 +439,7 @@ Personal Styles
     height: 100px;
     width: 1920px;
     background-color:#373737;
+    padding-left: 0px;
   }
 
    ul#navi_main a {
@@ -463,10 +464,6 @@ Personal Styles
    
     #bluetxth3 {
      color:#007edf;
-   }
-   
-   .dropdown_navi {
-     box-shadow: 3 3 0px rgba(0,0,0,.1);
    }
    
    
