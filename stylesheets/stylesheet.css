@@ -436,8 +436,8 @@ Personal Styles
   
   ul#navi_main {
     text-align: center;
-    background-color:#373737;
-    /*max-width: 1000px;*/
+    /*background-color:#373737;
+    max-width: 1000px;*/
     height:100px;
   }
 
@@ -453,8 +453,8 @@ Personal Styles
      float: left;
      position: relative;
      list-style-type: none;
-     background-color:#373737;
-     /*padding:20px;
+     /*background-color:#373737;
+     padding:20px;
      max-width: 1000px;*/
    }
    
@@ -489,5 +489,32 @@ Personal Styles
      padding-top:10px;
      padding-bottom:10px;
    }
+   
+      ul#navi_main li.home:hover {
+       width: 100px;
+       padding-top:10px;
+       padding-bottom:10px;
+       background-color:#373737;
+       border-radius: 10px;
+       box-shadow: 2px 2px 5px #000000;
+    }
+     
+     ul#navi_main li.projekte:hover {
+       width: 100px;
+       padding-top:10px;
+       padding-bottom:10px;
+    }
+   
+     ul#navi_main li.downloads:hover {
+       width: 100px;
+       padding-top:10px;
+       padding-bottom:10px;
+    }
+   
+     ul#navi_main li.kontakt:hover {
+       width: 100px;
+       padding-top:10px;
+       padding-bottom:10px;
+     }
    
    
