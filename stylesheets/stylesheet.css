@@ -468,26 +468,23 @@ Personal Styles
    
    ul#navi_main li.home {
      width: 100px;
-     padding-top:10px;
-     padding-bottom:10px;
+     padding:10px;
    }
    
    ul#navi_main li.projekte {
      width: 100px;
-     padding-top:10px;
-     padding-bottom:10px;
+     padding:10px;
+     
    }
    
    ul#navi_main li.downloads {
      width: 100px;
-     padding-top:10px;
-     padding-bottom:10px;
+     padding:10px;
    }
    
    ul#navi_main li.kontakt {
      width: 100px;
-     padding-top:10px;
-     padding-bottom:10px;
+     padding:10px;
    }
    
       ul#navi_main li.home:hover {
