@@ -463,7 +463,6 @@ Personal Styles
      color:#007edf;
      padding:5px;
      margin:5px;
-     font-size: 30px;
    }
    
     #bluetxth3 {
@@ -547,6 +546,16 @@ Personal Styles
        display: block;
        padding: 5px;
        background-color:#575757;
+       text-decoration: underline;
+       border-radius: 10px;
+     }
+     
+     ul#navi_main li>ul {
+       display: none;
+     }
+     
+     ul#navi_main li:hover>ul {
+       display: block;
      }
    
    
