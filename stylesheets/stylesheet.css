@@ -438,7 +438,7 @@ Personal Styles
     text-align: center;
     /*background-color:#373737;
     max-width: 1000px;*/
-    max-height:100px;
+    height:100px;
   }
 
    ul#navi_main a {
@@ -474,22 +474,25 @@ Personal Styles
    ul#navi_main li.home {
      max-width: 200px;
      padding:10px;
+     max-height:100px;
    }
    
    ul#navi_main li.projekte {
      max-width: 200px;
      padding:10px;
-     
+     max-height:100px;
    }
    
    ul#navi_main li.downloads {
      max-width: 200px;
      padding:10px;
+     max-height:100px;
    }
    
    ul#navi_main li.kontakt {
      max-width: 200px;
      padding:10px;
+     max-height:100px;
    }
    
       ul#navi_main li.home:hover {
@@ -499,6 +502,7 @@ Personal Styles
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
+       max-height:100px;
     }
      
      ul#navi_main li.projekte:hover {
@@ -508,6 +512,7 @@ Personal Styles
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
+       max-height:100px;
     }
    
      ul#navi_main li.downloads:hover {
@@ -517,6 +522,7 @@ Personal Styles
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
+       max-height:100px;
     }
    
      ul#navi_main li.kontakt:hover {
@@ -526,6 +532,7 @@ Personal Styles
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
+       max-height:100px;
      }
      
      ul#navi_main li ul.dropdown_navi {
