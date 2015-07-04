@@ -539,7 +539,7 @@ Personal Styles
      ul#navi_main li ul li {
        float: none;
        text-align: left;
-       display: block;
+       /*display: block;*/
        padding: 5px;
        margin-bottom:0px;
      }
@@ -547,7 +547,7 @@ Personal Styles
      ul#navi_main li ul li:hover {
        float: none;
        text-align: left;
-       display: block;
+       /*display: block;*/
        padding: 5px;
        background-color:#575757;
        text-decoration: underline;
