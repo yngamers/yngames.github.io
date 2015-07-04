@@ -448,6 +448,7 @@ Personal Styles
    }
    
    ul#navi_main li {
+     float: left;
      position: relative;
      list-style-type: none;
      background-color:#373737;
