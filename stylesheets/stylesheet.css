@@ -527,5 +527,10 @@ Personal Styles
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
      }
+     
+     ul#navi_main li ul.dropdown_navi {
+       left: 0;
+       padding: 5px;
+     }
    
    
