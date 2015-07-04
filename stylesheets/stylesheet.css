@@ -438,7 +438,7 @@ Personal Styles
     text-align: center;
     /*background-color:#373737;
     max-width: 1000px;*/
-    height:100px;
+    max-height:100px;
   }
 
    ul#navi_main a {
