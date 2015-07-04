@@ -438,7 +438,7 @@ Personal Styles
     text-align: center;
     background-color:#373737;
     padding 20px;
-    width: 600px;
+    max-width: 1000px;
   }
 
    ul#navi_main a {
@@ -455,6 +455,7 @@ Personal Styles
      list-style-type: none;
      background-color:#373737;
      padding:20px;
+     max-width: 1000px;
    }
    
    #bluetxth4 {
