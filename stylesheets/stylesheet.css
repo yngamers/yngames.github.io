@@ -474,25 +474,21 @@ Personal Styles
    ul#navi_main li.home {
      max-width: 200px;
      padding:10px;
-     max-height:100px;
    }
    
    ul#navi_main li.projekte {
      max-width: 200px;
      padding:10px;
-     max-height:100px;
    }
    
    ul#navi_main li.downloads {
      max-width: 200px;
      padding:10px;
-     max-height:100px;
    }
    
    ul#navi_main li.kontakt {
      max-width: 200px;
      padding:10px;
-     max-height:100px;
    }
    
       ul#navi_main li.home:hover {
@@ -502,7 +498,6 @@ Personal Styles
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
-       max-height:100px;
     }
      
      ul#navi_main li.projekte:hover {
@@ -512,7 +507,6 @@ Personal Styles
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
-       max-height:100px;
     }
    
      ul#navi_main li.downloads:hover {
@@ -522,7 +516,6 @@ Personal Styles
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
-       max-height:100px;
     }
    
      ul#navi_main li.kontakt:hover {
@@ -532,7 +525,6 @@ Personal Styles
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
-       max-height:100px;
      }
      
      ul#navi_main li ul.dropdown_navi {
@@ -545,6 +537,7 @@ Personal Styles
        text-align: left;
        display: block;
        padding: 5px;
+       margin-bottom:0px;
      }
      
      ul#navi_main li ul li:hover {
