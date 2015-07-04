@@ -536,6 +536,7 @@ Personal Styles
        padding: 5px;
        position: relative;
        top:10px;
+       height:60px;
      }
      
      ul#navi_main li ul li {
