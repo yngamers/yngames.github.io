@@ -454,6 +454,7 @@ Personal Styles
      position: relative;
      list-style-type: none;
      background-color:#373737;
+     box-shadow: 0 0 10px rgba(0,0,0,.1);
    }
    
    #bluetxth4 {
