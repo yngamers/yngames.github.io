@@ -535,5 +535,9 @@ Personal Styles
        left: 0;
        padding: 5px;
      }
+     
+     ul#navi_main li ul li {
+       float: none;
+     }
    
    
