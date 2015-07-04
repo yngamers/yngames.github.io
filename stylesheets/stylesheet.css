@@ -493,8 +493,7 @@ Personal Styles
    
       ul#navi_main li.home:hover {
        width: 130px;
-       padding-top:10px;
-       padding-bottom:10px;
+       padding:5px;
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
@@ -502,8 +501,7 @@ Personal Styles
      
      ul#navi_main li.projekte:hover {
        width: 130px;
-       padding-top:10px;
-       padding-bottom:10px;
+       padding:5px;
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
@@ -511,8 +509,7 @@ Personal Styles
    
      ul#navi_main li.downloads:hover {
        width: 130px;
-       padding-top:10px;
-       padding-bottom:10px;
+       padding:5px;
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
@@ -520,8 +517,7 @@ Personal Styles
    
      ul#navi_main li.kontakt:hover {
        width:130px;
-       padding-top:10px;
-       padding-bottom:10px;
+       padding:5px;
        background-color:#373737;
        border-radius: 10px;
        box-shadow: 2px 2px 5px #000000;
