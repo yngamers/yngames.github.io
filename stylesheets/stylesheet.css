@@ -519,7 +519,7 @@ Personal Styles
     }
    
      ul#navi_main li.kontakt:hover {
-       max-width: 200px;
+       width:130px;
        padding-top:10px;
        padding-bottom:10px;
        background-color:#373737;
