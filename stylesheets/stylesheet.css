@@ -456,16 +456,19 @@ Personal Styles
      /*background-color:#373737;
      padding:20px;
      max-width: 1000px;*/
+     text-align: center;
    }
    
    #bluetxth4 {
      color:#007edf;
      padding:5px;
+     margin:5px;
    }
    
     #bluetxth3 {
      color:#007edf;
      padding:5px;
+     margin:5px;
    }
    
    ul#navi_main li.home {
