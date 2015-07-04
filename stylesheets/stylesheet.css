@@ -437,6 +437,7 @@ Personal Styles
   ul#navi_main {
     text-align: center;
     height: 100px;
+    width: 100%;
   }
 
    ul#navi_main a {
@@ -452,7 +453,6 @@ Personal Styles
      position: relative;
      list-style-type: none;
      background-color:#373737;
-     width:100%;
    }
    
    #bluetxth4 {
