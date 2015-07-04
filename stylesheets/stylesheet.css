@@ -432,7 +432,13 @@ Small Device Styles
 Personal Styles
 *******************************************************************************/
 
-  #top_menu a {
-    display: block;
+
+  
+  ul#navi_main {
+    text-align: center;
+    
   }
-  }
+
+   ul#navi_main a {
+    text-decoration: none;
+   }
