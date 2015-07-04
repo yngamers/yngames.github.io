@@ -540,7 +540,7 @@ Personal Styles
        padding: 5px;
      }
      
-     ul#navi_main li ul li {
+     ul#navi_main li ul li:hover {
        float: none;
        text-align: left;
        display: block;
